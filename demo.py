@@ -1,6 +1,6 @@
 # coding: utf-8
 import turtle as t
-import l_sys as ls
+import lsyslib as ls
 t.pencolor('green')
 t.penup()
 t.setpos(-400,-300)
