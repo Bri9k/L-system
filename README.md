@@ -1,2 +1,2 @@
 # L-system
-Library for generating L-strings and drawing fractals
+Snippet for generating L-strings and drawing fractals
