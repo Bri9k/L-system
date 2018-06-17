@@ -1,4 +1,5 @@
 # coding: utf-8
+#refer to 
 
 # 'rules' is an array of 2-tuples: first element of tuple specifies variable, second one specifies string it is to be replaced by
 # theorem is the string to which rules are to be applied   
